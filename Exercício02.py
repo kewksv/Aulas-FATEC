@@ -3,7 +3,6 @@
 import time
 print ("CALCULADORA DE IDADE")
 Nome = input(f"Digite o seu nome: ")
-Sobrenome = input("Digite seu sobrenome: ")
 print ("Olá", Nome)
 Idade = input("Agora, sua idade: ")
 time.sleep (1.5)
