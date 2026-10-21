@@ -1,0 +1,5 @@
+contador = 2 
+while contador <= 20:
+    print(contador)
+    contador = contador + 2
+print ("Contagem encerrada")
