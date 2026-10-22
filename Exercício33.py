@@ -1,4 +1,4 @@
-Escreva um programa que utilize while para mostrar os números de 10 até 1, em ordem decrescente. Depois da repetição, exiba “Contagem encerrada!”. 
+#Escreva um programa que utilize while para mostrar os números de 10 até 1, em ordem decrescente. Depois da repetição, exiba “Contagem encerrada!”. 
 
 import time
 
