@@ -1,4 +1,4 @@
-#Escreva um programa em Python que utilize while para mostrar os números de 1 a 20, um por linha. 
+Escreva um programa que utilize while para mostrar os números de 10 até 1, em ordem decrescente. Depois da repetição, exiba “Contagem encerrada!”. 
 
 import time
 
